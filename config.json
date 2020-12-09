@@ -1,0 +1,22 @@
+{
+  "email": "kanishk5127665@bspstudent.org.in",
+  "password": "Birlaschoolpilani5127665",
+
+  "run_at_time": "",
+
+  "meeting_mode": 3,
+  "organisation_num" : 1,
+  "random_delay": true,
+  "check_interval": 10,
+
+  "auto_leave_after_min": 6,
+  "leave_if_last": true,
+
+  "headless" : false,
+  "mute_audio": true,
+  "chrome_type": "google-chrome",
+
+  "blacklist": [
+
+  ]
+}
