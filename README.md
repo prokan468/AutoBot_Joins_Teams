@@ -1,5 +1,5 @@
 <!-- wp:paragraph -->
-<p><sub>If you are reading this article, you have probably watched the <a href="https://www.youtube.com/watch?v=WfPk86Qf1Lo&amp;t=1s" target="_blank" rel="noreferrer noopener">YouTube(click here)</a> video. To jump right to the links and the code, <a href="#links-and-codes">click here</a>.</sub></p>
+<p><sub>If you are reading this article, you have probably watched the <a href="https://www.youtube.com/watch?v=WfPk86Qf1Lo&amp;t=1s" target="_blank" rel="noreferrer noopener">YouTube(click here)</a> video or have read the article on https://raniac.in/step-by-step-tutorial-for-how-to-make-a-bot-attend-your-class/. To jump right to the links and the code, <a href="#links-and-codes">click here</a>.</sub></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
